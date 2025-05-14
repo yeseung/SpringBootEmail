@@ -8,5 +8,5 @@
 - https://github.com/afsalashyana/Spring-Boot-Tutorials/tree/master/LearnJavaMailSender
 
 
+![스크린샷 2025-05-14 오전 10 16 35](https://github.com/user-attachments/assets/6f80836e-a661-42ae-a109-a21dc98c2023)
 
-<img width="897" alt="Snipaste_2025-04-18_11-10-24" src="https://github.com/user-attachments/assets/6434583b-46c6-4ce7-8c5a-7eff56215fa4" />
