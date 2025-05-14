@@ -4,7 +4,8 @@
 - https://github.com/arjungautam1/SpringBootEmail
 
 
-
+- https://www.youtube.com/watch?v=kLMUS0-PznE
+- https://github.com/afsalashyana/Spring-Boot-Tutorials/tree/master/LearnJavaMailSender
 
 
 
